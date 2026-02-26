@@ -1,4 +1,4 @@
-# 📊🤖 **Veros-ML-Models-Comparison**: مقایسه مدل‌های ماشین لرنینگ
+# **Veros-ML-Models-Comparison**: مقایسه مدل‌های ماشین لرنینگ
 
 این پروژه یک **مقایسه حرفه‌ای** بین دو مدل محبوب ماشین لرنینگ—**رگرسیون لجستیکی (Logistic Regression)** و **شبکه‌های بیز (Naive Bayes)**—برای پیش‌بینی ستون **OUTPUT** در دیتاست **anti-malware.csv** است. هدف پروژه طبقه‌بندی خروجی (classifying the target) است.
 
@@ -14,7 +14,7 @@
 
 ## ⚙️ **پیش‌نیازها**
 
-- **Python 3.x** 🐍
+- **Python 3.x** 
 - کتابخانه‌ها:
   - `pandas`
   - `numpy`
